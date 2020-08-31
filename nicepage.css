@@ -3625,7 +3625,7 @@
 }
 /*end-commonstyles animate*//*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: 'Vazir', sans-serif;
+  font-family: 'Vazir'!important;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -3721,7 +3721,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace,monospace;
+  font-family: 'Vazir'!important;
   font-size: 1em;
 }
 hr {
@@ -4239,7 +4239,7 @@ ol {
   font-style: inherit;
   font-size: inherit;
   font-weight: inherit;
-  font-family: inherit;
+  font-family: 'Vazir'!important;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -4296,7 +4296,7 @@ ol {
   font-style: inherit;
   font-size: inherit;
   font-weight: inherit;
-  font-family: inherit;
+  font-family: 'Vazir'!important;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -4359,7 +4359,7 @@ a {
   font-style: inherit !important;
   font-size: inherit !important;
   font-weight: inherit !important;
-  font-family: inherit !important;
+  font-family: 'Vazir'!important;
   line-height: inherit !important;
   letter-spacing: inherit !important;
   text-transform: inherit !important;
@@ -4369,7 +4369,7 @@ a {
   font-style: inherit;
   font-size: inherit;
   font-weight: inherit;
-  font-family: inherit;
+  font-family: 'Vazir'!important;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -14940,7 +14940,7 @@ section.u-image,
   font-style: inherit;
   font-size: inherit;
   font-weight: inherit;
-  font-family: inherit;
+  font-family: 'Vazir'!important;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -15289,58 +15289,59 @@ p {
   word-break: break-all;
 }
 .u-font-arial.u-custom-font {
-  font-family: Arial, sans-serif !important;
+  font-family: 'Vazir'!important;
+
 }
 .u-font-courier-new.u-custom-font {
-  font-family: 'Courier New', monospace !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-georgia.u-custom-font {
-  font-family: Georgia, serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-roboto.u-custom-font {
-  font-family: Roboto, sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-open-sans.u-custom-font {
-  font-family: 'Open Sans', sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-lato.u-custom-font {
-  font-family: Lato, sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-montserrat.u-custom-font {
-  font-family: Montserrat, sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-roboto-condensed.u-custom-font {
-  font-family: 'Roboto Condensed', sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-source-sans-pro.u-custom-font {
-  font-family: 'Source Sans Pro', sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-oswald.u-custom-font {
-  font-family: Oswald, sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-raleway.u-custom-font {
-  font-family: Raleway, sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-pt-sans.u-custom-font {
-  font-family: 'PT Sans', sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-ubuntu.u-custom-font {
-  font-family: Ubuntu, sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-titillium-Web.u-custom-font {
-  font-family: 'Titillium Web', sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-merriweather.u-custom-font {
-  font-family: Merriweather, serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-roboto-slab.u-custom-font {
-  font-family: 'Roboto Slab', serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-playfair-display.u-custom-font {
-  font-family: 'Playfair Display', serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-font-Lobster.u-custom-font {
-  font-family: Lobster, cursive !important;
+  font-family: 'Vazir'!important;
 }
 .u-rectangle {
   border-radius: 0;
@@ -15404,7 +15405,7 @@ p {
   font-style: inherit;
   font-size: inherit;
   font-weight: inherit;
-  font-family: inherit;
+  font-family: 'Vazir'!important;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -15504,7 +15505,7 @@ blockquote .small:before {
   padding-left: 0.8em;
 }
 .u-search input::placeholder {
-  font-family: inherit;
+  font-family: 'Vazir'!important;
 }
 .u-search-icon {
   box-sizing: content-box;
@@ -16662,7 +16663,7 @@ a.pswp__share--download:hover {
   font-style: inherit;
   font-size: inherit;
   font-weight: inherit;
-  font-family: inherit;
+  font-family: 'Vazir'!important;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -17488,7 +17489,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: 'Open Sans',sans-serif;
+  font-family: 'Vazir'!important;
 }
 h1,
 h2,
@@ -17496,7 +17497,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Oswald,sans-serif;
+  font-family: 'Vazir'!important;
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -17516,10 +17517,10 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: 'Open Sans',sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 .u-custom-font.u-heading-font {
-  font-family: Oswald,sans-serif !important;
+  font-family: 'Vazir'!important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
@@ -28283,8 +28284,8 @@ a.u-link.u-text-hover-grey-90:hover {
         margin-top: 20px;
         margin-bottom: 20px;
         font-weight: 700;
-        font-family: Roboto Condensed, sans-serif;
-    }
+        font-family: 'Vazir'!important;
+      }
     h2.u-subtitle
     {
         font-weight: 400;
@@ -28300,15 +28301,15 @@ a.u-link.u-text-hover-grey-90:hover {
         margin-top: 20px;
         margin-bottom: 20px;
         font-weight: 700;
-        font-family: Oswald, sans-serif;
-    }
+        font-family: 'Vazir'!important;
+      }
     h2:not(.u-subtitle)
     {
-        font-size: 3.75rem;
+        font-size: 1.75rem;
         line-height: 1;
         margin-top: 20px;
         margin-bottom: 20px;
-        font-family: Oswald, sans-serif;
+        font-family: 'Vazir'!important;
         font-weight: 700;
     }
     h3
@@ -28336,8 +28337,8 @@ a.u-link.u-text-hover-grey-90:hover {
         font-weight: 400;
         text-transform: uppercase;
         /* letter-spacing: 3px; */
-        font-family: 'Open Sans',sans-serif;
-    }
+        font-family: 'Vazir'!important;
+      }
     h6
     {
         font-weight: 400;
@@ -28539,3 +28540,24 @@ a.u-link.u-text-hover-grey-90:hover {
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
+ @media(max-width:575px)
+ {
+   #sq
+   {
+    padding: 0rem;
+    margin: 0 30px;
+   }
+
+ }
+
+ @media(min-width:950px)
+ {
+   #ss
+   {
+    margin-left: 160px;
+
+   }
+
+ }
+
+ 
